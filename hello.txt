@@ -14,5 +14,6 @@ int main()
 	cout << "OUTPUT: " << "Hello!" << endl;	
 	cout << __TIME__ << endl;
 	cout << msp::a << endl;
+	cout << "MODIFICATION" << endl;
 	return 0;
 }
